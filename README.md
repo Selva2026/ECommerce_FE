@@ -4,7 +4,7 @@ This is a full-featured **E-Commerce Frontend Application** built using **React.
 It supports **authentication, cart, admin dashboard**, and **Stripe payment integration**.
 
 ### 🔗 Live Demo  
-[https://fsd-b17-demo-fe.vercel.app](https://fsd-b17-demo-fe.vercel.app)
+[https://fantastic-vacherin-9a81de.netlify.app/](https://fantastic-vacherin-9a81de.netlify.app/)
 
 ---
 
@@ -70,4 +70,5 @@ It supports **authentication, cart, admin dashboard**, and **Stripe payment inte
 - Routes are protected using **role-based redirects**
 
 ---
+
 
