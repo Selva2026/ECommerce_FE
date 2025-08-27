@@ -4,7 +4,7 @@ This is a full-featured **E-Commerce Frontend Application** built using **React.
 It supports **authentication, cart, admin dashboard**, and **Stripe payment integration**.
 
 ### 🔗 Live Demo  
-[https://fantastic-vacherin-9a81de.netlify.app/](https://fantastic-vacherin-9a81de.netlify.app/)
+[https://pandiecommcart.netlify.app/](https://pandiecommcart.netlify.app)
 
 ---
 
@@ -70,5 +70,6 @@ It supports **authentication, cart, admin dashboard**, and **Stripe payment inte
 - Routes are protected using **role-based redirects**
 
 ---
+
 
 
